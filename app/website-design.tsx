@@ -17,7 +17,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg"
               alt=""
@@ -27,7 +26,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg"
               alt=""
@@ -37,7 +35,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg"
               alt=""
@@ -49,7 +46,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg"
               alt=""
@@ -59,7 +55,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-4.jpg"
               alt=""
@@ -69,7 +64,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-5.jpg"
               alt=""
@@ -81,7 +75,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg"
               alt=""
@@ -91,7 +84,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg"
               alt=""
@@ -101,7 +93,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg"
               alt=""
@@ -113,7 +104,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-9.jpg"
               alt=""
@@ -123,7 +113,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-10.jpg"
               alt=""
@@ -133,7 +122,6 @@ const WebsiteDesign = () => {
             <img
               width={500}
               height={500}
-              priority
               className="h-auto max-w-full rounded-lg"
               src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-11.jpg"
               alt=""
